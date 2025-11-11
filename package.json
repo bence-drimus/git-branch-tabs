@@ -3,7 +3,11 @@
   "displayName": "Git Branch Tabs",
   "description": "An extension to manage open tabs based on the current Git branch.",
   "version": "0.0.1",
-  "publisher": "bence-drimus", 
+  "publisher": "bence-drimus",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bence-drimus/git-branch-tabs"
+  }, 
   "engines": {
     "vscode": "^1.105.0"
   },
